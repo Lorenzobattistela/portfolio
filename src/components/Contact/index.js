@@ -39,7 +39,8 @@ const Contact = () => {
                         <AnimatedLetters letterClass={letterClass} strArray={["C", "o", "n", "t", "a","c","t", " ", "m", "e"]} idx={15}/>
                     </h1>
                     <p>
-                        I AM INTERESTED IN... TEXT HERE
+                        I am interested in tech (all fields), sports, gym, anime and a lot more! 
+                        If you want to talk to me or get in touch both professionally or just to say hi, send me a message!
                     </p>
                     <div className="contact-form">
                         <form ref={refForm} onSubmit={sendEmail}>
